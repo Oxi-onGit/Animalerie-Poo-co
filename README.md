@@ -1,3 +1,3 @@
 Animalerie-Poo-co
 
-Petit exo pour fun
+Petit exo pour le fun
